@@ -301,7 +301,8 @@
 }
 
 .section2-content{
-  font-family: "Caveat", cursive;
+    margin-top: 5px;
+    font-family: "EB Garamond", serif;
 }
 
 .wave2:nth-child(2),
