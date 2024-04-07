@@ -11,7 +11,7 @@
     display: flex;
     flex-direction: row;
     justify-content: center;
-    margin: 0 auto;
+    align-items: center;
     margin-top: 45px;
 }
 .heading p {
