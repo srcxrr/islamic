@@ -365,6 +365,12 @@
   display: flex;
   justify-content: center;
 }
+#footer2{
+    font-family: "EB Garamond", serif;
+  display: flex;
+  justify-content: center;
+    padding-bottom: 15px;
+    }
 #footer3{
   font-family: "Caveat", cursive;
   display: flex;
