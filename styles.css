@@ -12,7 +12,9 @@
     justify-content: center;
     margin-top: 45px;
 }
-
+.heading p {
+    font-family: "Caveat", cursive;
+}
 /* card  */
 .e-card {
     font-family: sans-serif;
@@ -357,6 +359,7 @@
 /* card 1 end */
 
 #footer{
+    font-family: "EB Garamond", serif;
   display: flex;
   justify-content: center;
 }
