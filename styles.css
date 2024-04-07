@@ -9,9 +9,7 @@
 .heading {
     font-family: "EB Garamond", serif;
     display: flex;
-    flex-direction: column;
     justify-content: center;
-    align-items: center;
     margin-top: 45px;
 }
 .heading p {
